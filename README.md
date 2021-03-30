@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldycgomes&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldycgomes" /> </p>
 
-- **Hi, I'm Ronaldy, I'm 20 years old** and I live in **Brazil(Santos,SP)** . At the moment I am in college(Science and Technology/Computer Science) in Federal University of ABC(UFABC).
+- **Hi, I'm Ronaldy, I'm 20 years old** and I live in **Brazil(Santos,SP)** . At the moment I am in college(Science and Technology/Computer Science) at Federal University of ABC(UFABC).
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript(and their frameworks) in order to achieve conditions to work as a Fullstack developer intern(or Jr developer).**
 
