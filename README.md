@@ -6,7 +6,7 @@
 
 - **Hi, I'm Ronaldy, I'm 20 years old** and I live in **Brazil(Santos,SP)** . At the moment I am in college(Science and Technology/Computer Science) at Federal University of ABC(UFABC).
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript(and their frameworks)** in order to achieve conditions to work in tech area.
+- 🌱 I’m currently learning **HTML, CSS and JavaScript(and their frameworks)** in order to achieve conditions to work in technology area. 
 
 - 🤝 I’m looking for help with **frontend and backend projects.**
 
