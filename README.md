@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ronaldy with "y"</h1>
+<h1 align="center">Hi 👋, I'm Ronald with "y"</h1>
 <h3 align="center">A passionate for technology and a Fullstack Developer in development ⚙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldycgomes&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldycgomes" /> </p>
