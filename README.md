@@ -13,11 +13,16 @@
 <p align="left">
 <a href="https://linkedin.com/in/ronaldy-gomes/" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronaldy-gomes/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ronaldy.gomes.75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ronaldy.gomes.75/" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/ronaldycgomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/ronaldycgomes/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gomesronaldy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gomesronaldy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/gomes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ronaldycgomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ronaldycgomes/" height="30" width="40" /></a>
+<a href="https://fb.com/ronaldy.gomes.75/" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ronaldy.gomes.75/" height="30" width="40" /></a>
+<a href="https://instagram.com/ronaldycgomes/" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/ronaldycgomes/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gomesronaldy" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gomesronaldy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gomes" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/gomes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ronaldycgomes/" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ronaldycgomes/" height="30" width="40" /></a>
 <a href="https://discord.gg/ronaldycgomes#5660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ronaldycgomes#5660" height="30" width="40" /></a>
 </p>
 
