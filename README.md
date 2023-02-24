@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ronald with "y"</h1>
-<h3 align="center">A passionate for technology and a Fullstack Developer in development ⚙</h3>
+<h3 align="center">A passionate for technology and a Fullstack Engineer in development ⚙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldycgomes&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldycgomes" /> </p>
 
-- **Hi, I'm Ronaldy, I'm 21 years old** and I live in **Brazil(Santos,SP)** . At the moment I am in college(Science and Technology/Computer Science) at Federal University of ABC(UFABC).
+- **Hi, I'm Ronaldy, I'm 22 years old** and I live in **Brazil(Santos,SP)** . 
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript(and their frameworks)** in order to achieve conditions to work in technology area. 
+Hi there! My name is **Ronaldy** and I'm 22 years old. Currently, I'm diving deep into the world of software development, learning about the **Java ecosystem, MySQL databases, and JavaScript**. I'm a junior developer, but I'm always looking for ways to improve and become more impactful with my code.
 
-- 🤝 I’m looking for help with **frontend and backend projects.**
+In addition, I'm studying analysis and systems development, which allows me to deepen my knowledge in the field and stay up-to-date on market trends. With all this in mind, I couldn't be more excited to pursue a career as a developer and maybe even become a competitive programmer.
+
+I'm thrilled at the idea of using my programming skills to make a difference in people's lives. I believe that technology can be a powerful tool for solving problems and making the world a better place. With that in mind, I'll continue to dedicate myself to my professional development to achieve this goal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +25,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/gomes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ronaldycgomes/" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ronaldycgomes/" height="30" width="40" /></a>
-<a href="https://discord.gg/ronaldycgomes#5660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ronaldycgomes#5660" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
