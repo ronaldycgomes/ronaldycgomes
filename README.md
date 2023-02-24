@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldycgomes&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldycgomes" /> </p>
 
-- **Hi, I'm Ronaldy, I'm 22 years old** and I live in **Brazil(Santos,SP)** . 
+- **Hi, I'm Ronaldy, I'm 22 years old** and I live in **Brazil(Santos,Sao Paulo)** . 
 
 Hi there! My name is **Ronaldy** and I'm 22 years old. Currently, I'm diving deep into the world of software development, learning about the **Java ecosystem, MySQL databases, and JavaScript**. I'm a junior developer, but I'm always looking for ways to improve and become more impactful with my code.
 
